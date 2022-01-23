@@ -8,4 +8,4 @@ Learning Vanilla-Redux and React-Redux
 - [x] Store and Reducer
 - [x] Actions
 - [x] Subscriptions
-- [ ] Recap Refactor
+- [x] Recap Refactor
