@@ -46,3 +46,30 @@ switch(action.type) {
 ```
 
 - `string`으로 바로 쓰는 대신에 `const variable`로 선언해서 사용하기 -> 에러 발견 용이
+
+## #2. PURE REDUX: TO DO LIST
+
+- [ ] Vanilla Todo
+- [ ] State Mutation
+- [ ] Delete To Do
+- [ ] Delete To Do Part Two
+- [ ] Conclusions
+
+## #3. REACT REDUX
+
+- [ ] Setup
+- [ ] Connectiong the Store
+- [ ] mapStateToProps
+- [ ] mapDispatchToProps
+- [ ] Deleting To Do
+- [ ] Detail Screen
+- [ ] Conclusions
+
+## #4. REACT TOOLKIT
+
+- [ ] Redux Toolkit
+- [ ] createAction
+- [ ] createReducer
+- [ ] configureStore
+- [ ] createSlice
+- [ ] Conclusions
