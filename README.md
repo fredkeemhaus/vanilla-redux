@@ -6,6 +6,6 @@ Learning Vanilla-Redux and React-Redux
 
 - [x] Vanilla Counter
 - [x] Store and Reducer
-- [ ] Actions
-- [ ] Subscriptions
+- [x] Actions
+- [x] Subscriptions
 - [ ] Recap Refactor
