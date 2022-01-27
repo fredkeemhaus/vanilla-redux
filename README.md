@@ -57,7 +57,7 @@ switch(action.type) {
 - state를 mutate하면 안된다.
 
 - [x] Delete To Do
-- [ ] Delete To Do Part Two
+- [x] Delete To Do Part Two
 - [ ] Conclusions
 
 ## #3. REACT REDUX
