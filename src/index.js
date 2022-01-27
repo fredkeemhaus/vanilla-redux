@@ -22,7 +22,7 @@ const deleteToDo = (id) => {
 };
 
 const reducer = (state = [], action) => {
-  console.log(action);
+  console.log(state, "--", ...state);
   switch (action.type) {
     case ADD_TODO:
       return [{ text: action.text, id: Date.now() }, ...state];

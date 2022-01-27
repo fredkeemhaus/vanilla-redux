@@ -58,7 +58,7 @@ switch(action.type) {
 
 - [x] Delete To Do
 - [x] Delete To Do Part Two
-- [ ] Conclusions
+- [x] Conclusions
 
 ## #3. REACT REDUX
 
