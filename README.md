@@ -68,13 +68,17 @@ switch(action.type) {
 - [x] mapDispatchToProps
 - [x] Deleting To Do
 - [x] Detail Screen
-- [ ] Conclusions
+- [x] Conclusions
 
 ## #4. REACT TOOLKIT
 
-- [ ] Redux Toolkit
-- [ ] createAction
-- [ ] createReducer
-- [ ] configureStore
-- [ ] createSlice
-- [ ] Conclusions
+- [x] Redux Toolkit
+- [x] createAction
+- ADD 대신에 `addToDo.type`
+  addToDo(text) ▷ `payload`로 값(text)을 보낸다.
+- [x] createReducer
+- `createReducer()`에서는 새로운 `state`를 리턴하거나 state를 `mutate`할 수 있다.
+- 뭔가를 리턴할 때는 새로운 `state`여야만한다.
+- [x] configureStore
+- [x] createSlice
+- [x] Conclusions
