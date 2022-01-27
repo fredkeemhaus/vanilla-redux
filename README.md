@@ -49,7 +49,7 @@ switch(action.type) {
 
 ## #2. PURE REDUX: TO DO LIST
 
-- [ ] Vanilla Todo
+- [x] Vanilla Todo
 - [ ] State Mutation
 - [ ] Delete To Do
 - [ ] Delete To Do Part Two
