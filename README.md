@@ -63,7 +63,7 @@ switch(action.type) {
 ## #3. REACT REDUX
 
 - [x] Setup
-- [ ] Connectiong the Store
+- [x] Connectiong the Store
 - [ ] mapStateToProps
 - [ ] mapDispatchToProps
 - [ ] Deleting To Do
