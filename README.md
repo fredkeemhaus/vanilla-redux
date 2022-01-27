@@ -67,7 +67,7 @@ switch(action.type) {
 - [x] mapStateToProps
 - [x] mapDispatchToProps
 - [x] Deleting To Do
-- [ ] Detail Screen
+- [x] Detail Screen
 - [ ] Conclusions
 
 ## #4. REACT TOOLKIT
