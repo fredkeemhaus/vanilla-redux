@@ -50,7 +50,12 @@ switch(action.type) {
 ## #2. PURE REDUX: TO DO LIST
 
 - [x] Vanilla Todo
-- [ ] State Mutation
+- [x] State Mutation
+
+- state를 change하면 안된다. 새로운 state를 create하고, 그 새로운 state를 return 하는 것.
+- 이전 array의 contents로, 그리고 새로운 object로 array를 만든 것. 이것이 redux의 기본이다.
+- state를 mutate하면 안된다.
+
 - [ ] Delete To Do
 - [ ] Delete To Do Part Two
 - [ ] Conclusions
