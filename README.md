@@ -56,7 +56,7 @@ switch(action.type) {
 - 이전 array의 contents로, 그리고 새로운 object로 array를 만든 것. 이것이 redux의 기본이다.
 - state를 mutate하면 안된다.
 
-- [ ] Delete To Do
+- [x] Delete To Do
 - [ ] Delete To Do Part Two
 - [ ] Conclusions
 
