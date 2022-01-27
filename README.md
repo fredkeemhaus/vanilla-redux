@@ -65,7 +65,7 @@ switch(action.type) {
 - [x] Setup
 - [x] Connectiong the Store
 - [x] mapStateToProps
-- [ ] mapDispatchToProps
+- [x] mapDispatchToProps
 - [ ] Deleting To Do
 - [ ] Detail Screen
 - [ ] Conclusions
